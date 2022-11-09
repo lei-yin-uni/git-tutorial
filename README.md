@@ -2,3 +2,4 @@
 -FEATURE-A
 -feature-A
 ----FIX -B
+--feature-C
